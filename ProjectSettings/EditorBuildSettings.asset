@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 17cc469f8dfb1a847965ac5bd07a93ba
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 01d6659255906f04185ce380a53e51d8
+  - enabled: 1
+    path: Assets/Resources/Games/BalloonBimb/Scene.unity
+    guid: ce1897a604883ed46952916567435cf9
+  - enabled: 1
+    path: Assets/Resources/Games/Butterfly/Scene.unity
+    guid: 1d4c0749d5805b04bb959d766e548312
+  - enabled: 1
+    path: Assets/Resources/Games/ChoosePic/Scene.unity
+    guid: a0462ebfa0c26d24ab942dcf5c0b0f56
+  - enabled: 1
+    path: Assets/Resources/Games/ChooseSame/Scene.unity
+    guid: fffc82a6fe1043942bc43a1910236db5
+  - enabled: 1
+    path: Assets/Resources/Games/ChooseText/Scene.unity
+    guid: 2585167383d41cf47ba72baab2194413
+  - enabled: 1
+    path: Assets/Resources/Games/MatchAdd/Scene.unity
+    guid: 9a8397a9a0ca1c046b1a65e751620e1e
+  - enabled: 1
+    path: Assets/Resources/Games/NumberSeries/Scene.unity
+    guid: e141febcb3ebd864296169c24e8ba7c0
+  - enabled: 1
+    path: Assets/Resources/Games/Spotlight/Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Resources/Games/Teds/Scene.unity
+    guid: ef3ae2c9431b2fb4cbae300fe90293df
+  - enabled: 1
+    path: Assets/Resources/Games/TurnOnMusic/Scene.unity
+    guid: f8658cfcf62726846a5c371f80a7f4ee
+  - enabled: 1
+    path: Assets/Resources/Games/WordPrint/Scene.unity
+    guid: 30b7c9a64546aa745ad329dc07d5ffdc
+  - enabled: 1
+    path: Assets/Resources/Games/RollBall/Scene.unity
+    guid: e926c1cb80f3eac4087ba973e3208954
+  m_configObjects: {}
